@@ -1,4 +1,4 @@
-![image](https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/f35fec6c-dcea-41dc-84a2-9af4f980b078)# 받장
+# 받장
 <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc455c206-3770-4a43-a503-79c364c30b1c%2Fsdfd4x.png?table=block&id=ff5d26ab-dd78-4d76-ae49-bee0adf089c4&spaceId=f1912130-0409-4e90-a90f-6091ae253e73&width=1390&userId=6319c049-6ecd-4c0e-bd40-dfc2d0c81e33&cache=v2" width="300"/>
 
 받장은 학교별 장학금과 지원금을 조회할 수 있는 플랫폼입니다.
