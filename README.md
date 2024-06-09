@@ -3,7 +3,7 @@
 
 받장은 학교별 장학금과 지원금을 조회할 수 있는 플랫폼입니다.
 자신이 다니는 학교나 살고있는 지역에서 받을 수 있는 장학금을 조회하고, 게시판을 통해 정보를 공유할 수 있습니다.
-![받장 소개페이지](https://www.notion.so/makeus-challenge/ff5d26abdd784d76ae49bee0adf089c4)
+[받장 소개페이지](https://www.notion.so/makeus-challenge/ff5d26abdd784d76ae49bee0adf089c4)
 
 ## 📌 프로젝트 개요
 - **UMC**: 3기 프로젝트
