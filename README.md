@@ -24,20 +24,14 @@
 
 <table>
   <tr>
-    <td><img src="![image](https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/27f669e9-a68f-4afd-bec8-252d63b16002)
-" width="300"></td>
-    <td><img src="![image](https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/3ec58206-9821-43ad-bd90-bedd9bda2f4e)
-" width="300"></td>
-    <td><img src="![image](https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/01451ed8-3053-44a3-83b0-dff4c9a52709)
-" width="300"></td>
+    <td><img src="https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/033dc36c-f2f2-4735-8ae2-22a6433c7755" width="300"></td>
+    <td><img src="https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/c669d9a6-6830-4f06-86a9-f74cfdc8b8f1" width="300"></td>
+    <td><img src="https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/f0f1f67a-c0b6-441f-b0f2-e6947f3e8906" width="300"></td>
   </tr>
   <tr>
-    <td><img src="![image](https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/f3c2c0cf-2bc0-4e1f-9483-7bc0a20a1836)
-" width="300"></td>
-    <td><img src="![image](https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/836e5c99-f557-4526-954e-e291ad4ccd3a)
-" width="300"></td>
-    <td><img src="![image](https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/5101e0af-8ce6-451f-81d3-b04a1a19a738)
-" width="300"></td>
+    <td><img src="https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/6d9d868f-e772-41ee-8063-ba9d47ecdd1c" width="300"></td>
+    <td><img src="https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/756bccef-bf6e-4fb1-a778-93a375887885" width="300"></td>
+    <td><img src="https://github.com/awaaaake/UMC_badjang_project_Server/assets/103404308/3539110b-34b4-4a1d-b2be-56afea8a302d" width="300"></td>
   </tr>
 </table>
 
